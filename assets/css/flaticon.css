@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+url("../fonts/flaticon.woff") format("woff"),
+url("../fonts/flaticon.woff2") format("woff2"),
+url("../fonts/flaticon.eot") format("embedded-opentype"),
+url("../fonts/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-verified:before {
+    content: "\f101";
+}
+.flaticon-coding:before {
+    content: "\f102";
+}
+.flaticon-app-development:before {
+    content: "\f103";
+}
+.flaticon-smartphone:before {
+    content: "\f104";
+}
+.flaticon-software-developer:before {
+    content: "\f105";
+}
+.flaticon-vector:before {
+    content: "\f106";
+}
+.flaticon-palette:before {
+    content: "\f107";
+}
+.flaticon-add:before {
+    content: "\f108";
+}
+.flaticon-social-media:before {
+    content: "\f109";
+}
+.flaticon-promotion:before {
+    content: "\f10a";
+}
+.flaticon-email-marketing:before {
+    content: "\f10b";
+}
+.flaticon-self-growth:before {
+    content: "\f10c";
+}
+.flaticon-right-arrow:before {
+    content: "\f10d";
+}
+.flaticon-left-arrow:before {
+    content: "\f10e";
+}
+.flaticon-facebook:before {
+    content: "\f10f";
+}
+.flaticon-dribbble:before {
+    content: "\f110";
+}
+.flaticon-twitter:before {
+    content: "\f111";
+}
+.flaticon-linkedin:before {
+    content: "\f112";
+}
+.flaticon-instagram:before {
+    content: "\f113";
+}
+.flaticon-heart:before {
+    content: "\f114";
+}
+.flaticon-telephone:before {
+    content: "\f115";
+}
+.flaticon-phone-call:before {
+    content: "\f116";
+}
+.flaticon-envelope:before {
+    content: "\f117";
+}
+.flaticon-mail:before {
+    content: "\f118";
+}
+.flaticon-location:before {
+    content: "\f119";
+}
+.flaticon-quote:before {
+    content: "\f11a";
+}
+.flaticon-right-quote-sign:before {
+    content: "\f11b";
+}
+.flaticon-left-quote:before {
+    content: "\f11c";
+}
+.flaticon-right-quote:before {
+    content: "\f11d";
+}
+.flaticon-play:before {
+    content: "\f11e";
+}
+.flaticon-play-1:before {
+    content: "\f11f";
+}
+.flaticon-loupe:before {
+    content: "\f120";
+}
+.flaticon-user:before {
+    content: "\f121";
+}
+
